@@ -156,7 +156,7 @@ st.markdown("---")
 st.markdown(
     """
     <div style="text-align: center; color: #888;">
-        Made with ❤️ by <a href="https://github.com/satvik314/educhain" target="_blank">EduChain</a> | Powered by AI
+        Made with ❤️ by <a href="https://github.com/satvik314/educhain" target="_blank">educhain</a> | Powered by AI
     </div>
     """,
     unsafe_allow_html=True
